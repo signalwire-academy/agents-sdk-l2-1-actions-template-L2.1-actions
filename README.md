@@ -64,4 +64,10 @@ See `reference/starter.py` for a boilerplate template.
 
 ---
 
+## Next Assignment
+
+Ready to continue? [**Start Lab 2.2: DataMap Integration**](https://classroom.github.com/a/GPxOqjbX)
+
+---
+
 *SignalWire AI Agents Certification*
